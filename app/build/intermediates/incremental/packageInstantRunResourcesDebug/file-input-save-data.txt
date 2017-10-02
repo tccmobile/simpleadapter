@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Mon Oct 02 13:38:11 CDT 2017
+2.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/no.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/layout/rowlayout_complex.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/layout/rowlayout.xml
+5.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+1.set=ANDROID_RESOURCE
+7.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/res/resources-debug.ap_/res/drawable-mdpi-v4/ok.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

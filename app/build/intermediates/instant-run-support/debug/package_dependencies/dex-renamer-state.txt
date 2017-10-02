@@ -1,0 +1,4 @@
+#Mon Oct 02 13:38:20 CDT 2017
+base.0=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c1731410ed8683350fa40270a77c9ae9e3c1b1fa
+renamed.0=classes.dex
+file.0=/Users/pastorwill/Desktop/com.vogella.android.listview.simpleadapter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_c1731410ed8683350fa40270a77c9ae9e3c1b1fa/classes.dex
